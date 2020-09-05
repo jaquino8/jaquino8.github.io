@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/wordgame.jpg
 title: Word Typing game using SFML
-permalink: projects/micromouse
+permalink: projects/word-typing-game
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-04
 labels:
