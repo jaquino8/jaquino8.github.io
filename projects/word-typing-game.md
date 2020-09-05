@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/wordgame.jpg
+image: images/wg.png
 title: Word Typing game using SFML
 permalink: projects/word-typing-game
 # All dates must be YYYY-MM-DD format!
