@@ -31,5 +31,5 @@ End screen for when timer expires. Displays total words counted correctly and er
 
 We also made sure that the user could not use the same word over and over. The words would be stored in a large array and once the user submitted that word it would be removed from the array. This was the longest program I've had to create so far in my studies as all files set the total line count to at least over 500.
 
-Repo can be found at [Github](https://github.com/jaquino8/Wordgame).
+Repo can be found [here](https://github.com/jaquino8/Wordgame).
 
