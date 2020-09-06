@@ -26,6 +26,9 @@ Gameplay screen displaying words to type, correct count, error count, and user i
 
 The player was tasked to type the word before they exited out the left side of the screen. The program would track what the user was typing and highlight a word that matched their input. The words would also change color after they passed a certain section of the screen. The words would turn yellow if they went past half way, and then red when they were near the left side. If the user was to press enter with an incorrect word, the program would count an error. If the user typed a correct word and pressed enter, they would get one point. We also set a timer so that the user could see how much words they could type in one minute.
 
+<img class="ui large left rounded image" src="/images/wordgame-end.png">
+End screen for when timer expires. Displays total words counted correctly and errors.
+
 We also made sure that the user could not use the same word over and over. The words would be stored in a large array and once the user submitted that word it would be removed from the array. This was the longest program I've had to create so far in my studies as all files set the total line count to at least over 500.
 
 
