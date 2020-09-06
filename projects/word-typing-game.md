@@ -13,7 +13,7 @@ labels:
 summary: My partner and I developed a word typing game with SFML libraries using C++.
 ---
 
-<img class="ui medium center floated rounded image" src="/images/wordgame-title.png">
+<img class="ui medium centered rounded image" src="/images/wordgame-title.png">
 
 This word typing game was create as a final project for EE 205. The game took a text file containing 100+ words and placed them on a randomly generated location on the unseen right section of the program screen. The words would then move left on at a constant rate.
 
