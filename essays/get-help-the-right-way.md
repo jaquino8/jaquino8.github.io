@@ -14,8 +14,8 @@ labels:
  
 Knowledge is power. However, not knowing something does not make you weak. It gives you the opportunity to improve yourself and possibly empower those who try to aid you. This type of growth is not possible without being willing to ask for help. Although, just asking for help is not what is important, it is HOW you ask for help. After reading the essay "How To Ask Questions The Smart Way" by Eric Raymond, the proper way to ask a question can not only provide an accurate answer for your problem, but also encourages others to answer. Simply put, just because you ask a question, it does not necessarily mean you will get an answer. However, if you ask the question in a proper way, the chances you will get a reply and the quality of your response will improve.
   
-## Good vs. Bad
-  
-  
+## Think before you speak
+
+There are many prerequisites before even attempting to ask the question. According to Raymond, the very first step to do before posing a question is to do your own research beforehand. The amount of information and resources available today is so abundant that the probability of someone encountering the similar issues are high. 
   
   
