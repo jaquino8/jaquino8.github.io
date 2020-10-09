@@ -11,7 +11,7 @@ labels:
   - CSS
 ---
 
- ## The Basics
+## The Basics
  
 This was my first experience using a tech stack that is used for web development. As a computer engineer, I was not too familiar with the structure of web sites and how easy it was to inspect some of the code that is used for some web sites. When we began this module, I was excited to learn how to use these tools to gain more experience as a software engineer. There are so many jobs that are looking for people that have experience using these tools.
 
