@@ -21,4 +21,4 @@ As mentioned earlier, I would consider myself a newbie in using these design pat
 
 Due to the tools we use for this class, I have been introduced to multiple different design patterns. Some of the main ones are Prototype, Observer, Model-View-Controller (MVC), and Front Controller. These design patterns are used in the tech stack we are using to create applications.
 
-By being more aware of these design patterns and researching their applications in object-oriented programming, I can hopefully level up to become one of these ninjas in the future. 
+By being more aware of these design patterns and researching their applications in object-oriented programming, I can hopefully learn to implement them into my projects correctly, effectively, and creatively. I hope to one day master them so I can also call myself.. a ninja.
