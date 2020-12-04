@@ -17,3 +17,8 @@ Design patterns are general solutions that can be modified and adapted to solve 
 
 ## Ranking up
 
+As mentioned earlier, I would consider myself a newbie in using these design patterns in software engineering. Most projects I've created were not really following any type of design patterns. Even if my programs did contain a use of some design patterns, it was unbeknowst to me. Luckily, this class has made me aware of design patterns, and how there are many different types of patterns that can be used to design a program.
+
+Due to the tools we use for this class, I have been introduced to multiple different design patterns. Some of the main ones are Prototype, Observer, Model-View-Controller (MVC), and Front Controller. These design patterns are used in the tech stack we are using to create applications.
+
+By being more aware of these design patterns and researching their applications in object-oriented programming, I can hopefully level up to become one of these ninjas in the future. 
