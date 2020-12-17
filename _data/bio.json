@@ -57,6 +57,8 @@
         "C",
         "C++",
         "Javascript",
+        "Python",
+        "LabVIEW",
       ]
     },
     {
@@ -74,7 +76,7 @@
       "area": "Computer Engineering (expected Fall, 2020)",
       "studyType": "B.S.",
       "startDate": "2018-01-01",
-      "endDate": "Present",
+      "endDate": "2020-12-18",
       "gpa": "",
       "courses": [
       ]
