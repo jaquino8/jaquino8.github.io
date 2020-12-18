@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/labview.jpg
 title: Automated Control Group
-permalink: projects/automated-control
+permalink: projects/automated-control-group
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
