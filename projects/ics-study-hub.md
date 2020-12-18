@@ -9,10 +9,13 @@ date: 2020-12-17
 labels:
   - JavaScript
   - Meteor
+  - Semantic UI React
   - Agile
   - Teamwork
   - Web Development
-summary: A website for students to find out about study sessions at the ICSpace.
+  - Semantic UI React
+summary: A website for students to find out about opportunities to collab and study with other students
+
 ---
 ## Project Overview
 
@@ -24,10 +27,9 @@ My responsibilities for this project was to implement the landing page, user pro
 <img class="ui large left rounded image" src="/images/landing-page.png">
 <img class="ui large left rounded image" src="/images/user-profile.png">
 
-
-
 ## My experience
 
+My biggest takeaways from working on a project of this scale was how to develop as a team,  web application development, and expanding the tech stack I am familiar with. Working as a team with issue driven project management allowed me to experience what that methodology will be like in the work force. I also gained real experience in using Semantic UI React with Meteor to create a deployed application. 
 
 ### Links
 
